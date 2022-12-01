@@ -1,0 +1,15 @@
+.main{
+    margin-top: 40px;
+    width: 350px;
+    /* text-align: center; */
+    padding-left: 300px;
+}
+.btn-parrent{
+    width: 400px;
+    margin: auto;
+    gap: 10px;
+}
+.cbtn{
+    width: 80px;
+    height: 80px;
+}
